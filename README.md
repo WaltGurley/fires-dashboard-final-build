@@ -1,0 +1,1 @@
+This is a completed production build of an example data dashboard built with Angular and D3.js. The development materials, guide, and supplemental materials are available in the following GitHub repository: https://github.com/ncsu-libraries/angular-d3-workshop
